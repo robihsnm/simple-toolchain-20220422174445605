@@ -1,5 +1,5 @@
 ---
 applications:
- - name: movies-reviews-database-8cf
+ - name: movies-reviews-database-ecb
    random-route: true
    memory: 128M
